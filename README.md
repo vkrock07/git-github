@@ -1,2 +1,2 @@
 # git-github
-learning github
+This repository is for learning purpose only.
